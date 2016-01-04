@@ -5,5 +5,6 @@
 }
 
 div.well {
-    height: 550px;
+    height: 586px;
+    vertical-align: middle;
 }
